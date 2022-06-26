@@ -25,11 +25,8 @@ The security of the site was ensured by django, more precisely in python, any in
 
 ![image](https://user-images.githubusercontent.com/90828091/175834308-77c5d391-8dfa-4699-a4b8-2c03e6a0e422.png)
 
-<h1>PAGE SETTINGS</h1>
-![appsettings](https://user-images.githubusercontent.com/90828091/175834528-56cfdd33-f225-4239-8015-d7f31b3e5531.jpg)
+<h1>OTHER</h1>
+<p>For more information about this application, contact me by discord 'wahab.#8382'.
 
-
-
-
-<br>
-
+This application will be marketed by All in one1. 
+For any other request about All in one1 contact me by mail : Contact@all-in-one1.fr <p>
