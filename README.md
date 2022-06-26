@@ -20,6 +20,7 @@ The security of the site was ensured by django, more precisely in python, any in
 
 <p>The design was also created beforehand with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, then developed. This is version 1 of the order page, a newer version will be available to users soon, on this page we find all the orders placed by customers, as well as other features such as a search bar. </p>
 
-![image](https://user-images.githubusercontent.com/90828091/175834113-3ea7e2bb-11f9-4a80-86ee-1259c3504db5.png)
+![image](https://user-images.githubusercontent.com/90828091/175834293-39bbca16-716b-45f5-9c06-54f18e321d55.png)
+
 <br>
 
