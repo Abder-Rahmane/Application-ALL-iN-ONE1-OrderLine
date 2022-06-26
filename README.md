@@ -25,6 +25,8 @@ The security of the site was ensured by django, more precisely in python, any in
 
 ![image](https://user-images.githubusercontent.com/90828091/175834308-77c5d391-8dfa-4699-a4b8-2c03e6a0e422.png)
 
+<h1>PAGE SETINGS</h1>
+
 
 <br>
 
