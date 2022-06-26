@@ -27,6 +27,7 @@ The security of the site was ensured by django, more precisely in python, any in
 
 <h1>PAGE SETTINGS</h1>
 ![appsettings](https://user-images.githubusercontent.com/90828091/175834497-48cdd2da-754b-4cd6-a240-ead8fc946774.jpg)
+<p>When you press an order, a popup with the description of the order is displayed, there is the possibility to print a ticket </p>
 ![image](https://user-images.githubusercontent.com/90828091/175834505-f66a8f2d-11d5-4e91-95f8-bfd8930c1808.png)
 
 
