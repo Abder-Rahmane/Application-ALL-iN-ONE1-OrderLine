@@ -14,10 +14,12 @@ The security of the site was ensured by django, more precisely in python, any in
 <p>The design was previously created with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, then developed. </p>
 
 ![image](https://user-images.githubusercontent.com/90828091/175833369-15cd9f2e-0bc3-47f5-aa16-8f2adcd65629.png)
+<br>
 
 <h1>PAGE ORDER</h1>
 
 <p>The design was also created beforehand with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, then developed. This is version 1 of the order page, a newer version will be available to users soon, on this page we find all the orders placed by customers, as well as other features such as a search bar. </p>
 
 ![image](https://user-images.githubusercontent.com/90828091/175834113-3ea7e2bb-11f9-4a80-86ee-1259c3504db5.png)
+<br>
 
