@@ -13,7 +13,8 @@ The security of the site was ensured by django, more precisely in python, any in
 <h1>PAGE LOGIN</h1>
 <p>The design was previously created with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, then developed. </p>
 
-![image](https://user-images.githubusercontent.com/90828091/175833369-15cd9f2e-0bc3-47f5-aa16-8f2adcd65629.png)
+![image](https://user-images.githubusercontent.com/90828091/176013381-72ecc6bc-7bc2-402e-826c-b9c28d8e1c2a.png)
+
 <br>
 
 <h1>PAGE ORDER</h1>
@@ -25,7 +26,8 @@ The security of the site was ensured by django, more precisely in python, any in
 
 <p>When you press an order, a popup with the description of the order is displayed, there is the possibility to print a ticket </p>
 
-![image](https://user-images.githubusercontent.com/90828091/175834308-77c5d391-8dfa-4699-a4b8-2c03e6a0e422.png)
+![image](https://user-images.githubusercontent.com/90828091/176013336-8e569d4d-edf2-4955-84ad-d35755b11839.png)
+
 
 <h1>CONTACT</h1>
 <p>For more information about this application, contact me by discord 'wahab.#8382'.
