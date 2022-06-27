@@ -29,4 +29,4 @@ The security of the site was ensured by django, more precisely in python, any in
 <p>For more information about this application, contact me by discord 'wahab.#8382'.
 
 This application will be marketed by All in one1. 
-For any other request about All in one1 contact me by mail : Contact@all-in-one1.fr <p>
+For any other request about All in one1 contact by mail : Contact@all-in-one1.fr <p>
