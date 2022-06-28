@@ -21,7 +21,7 @@ The security of the site was ensured by django, more precisely in python, any in
 
 <p>The design was also created beforehand with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, then developed. This is version 1 of the order page, a newer version will be available to users soon, on this page we find all the orders placed by customers, as well as other features such as a search bar. </p>
 
-![image](https://user-images.githubusercontent.com/90828091/176013250-7f218cb3-4370-4078-9758-e6514e3453ec.png)
+![image](https://user-images.githubusercontent.com/90828091/176193878-a6c099f4-1bae-4e19-a59c-277f71bdc970.png)
 
 
 <p>When you press an order, a popup with the description of the order is displayed, there is the possibility to print a ticket </p>
