@@ -13,7 +13,7 @@ The security of the site was ensured by django, more precisely in python, any in
 <h1>PAGE LOGIN</h1>
 <p>The design was previously created with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, then developed. </p>
 
-![image](https://user-images.githubusercontent.com/90828091/176013381-72ecc6bc-7bc2-402e-826c-b9c28d8e1c2a.png)
+![image](https://user-images.githubusercontent.com/90828091/180035316-29add208-f323-4f49-beac-666c4ce6830e.png)
 
 <br>
 
@@ -21,12 +21,13 @@ The security of the site was ensured by django, more precisely in python, any in
 
 <p>The design was also created beforehand with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, then developed. This is version 1 of the order page, a newer version will be available to users soon, on this page we find all the orders placed by customers, as well as other features such as a search bar. </p>
 
-![image](https://user-images.githubusercontent.com/90828091/176193878-a6c099f4-1bae-4e19-a59c-277f71bdc970.png)
+![image](https://user-images.githubusercontent.com/90828091/180035263-227ffb5b-f755-40bb-90da-8afe766b30f6.png)
 
 
-<p>When you press an order, a popup with the description of the order is displayed, there is the possibility to print a ticket </p>
+<p>On this page we will find the information of the user account and we can connect to the centralization, in our case it is already connected </p>
 
-![image](https://user-images.githubusercontent.com/90828091/176013336-8e569d4d-edf2-4955-84ad-d35755b11839.png)
+![image](https://user-images.githubusercontent.com/90828091/180034836-d1148354-e13b-4731-acee-a3f907620eae.png)
+
 
 
 <h1>CONTACT</h1>
