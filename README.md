@@ -1,7 +1,7 @@
 
 ![logo](https://user-images.githubusercontent.com/90828091/175833466-de259052-f9b5-479e-84f6-8e50bbcb4cb6.svg)
 
-<p> Work done for all in one</a></p>
+<p> Work done for All in one</a></p>
 <h1> ALL IN ONE1 ORDERLINE</h1>
 <p>All in one1 OrderLine is a web application developed in django, it is an application that consists in retrieving orders from delivery platforms.
 
