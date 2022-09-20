@@ -25,9 +25,9 @@ The security of the site was ensured by django, more precisely in python, any in
 
 <p>Then the creation of an order analysis page, thanks to a framwork <a href="https://www.chartjs.org/">Chart.js</a></p>
 
-<p>On this page we will find the information of the user account and we can connect to the centralization, in our case it is already connected </p>
-
 ![image](https://user-images.githubusercontent.com/90828091/180034836-d1148354-e13b-4731-acee-a3f907620eae.png)
+
+<p>On this page we will find the information of the user account and we can connect to the centralization, in our case it is already connected </p>
 ![image](https://user-images.githubusercontent.com/90828091/191360016-4fb0e3c5-7229-4280-a520-d9a6339ab85a.png)
 
 
