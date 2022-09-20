@@ -28,7 +28,8 @@ The security of the site was ensured by django, more precisely in python, any in
 ![image](https://user-images.githubusercontent.com/90828091/191360016-4fb0e3c5-7229-4280-a520-d9a6339ab85a.png)
 
 <a>On this page we will find the information of the user account and we can connect to the centralization, in our case it is already connected </a>
-![image](https://user-images.githubusercontent.com/90828091/191360016-4fb0e3c5-7229-4280-a520-d9a6339ab85a.png)
+![image](https://user-images.githubusercontent.com/90828091/191360356-85c5120d-a6e9-4029-a5f8-95f163a4d3be.png)
+
 
 
 
