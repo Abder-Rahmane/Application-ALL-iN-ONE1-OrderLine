@@ -21,7 +21,10 @@ The security of the site was ensured by django, more precisely in python, any in
 
 <p>The design was also created beforehand with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, then developed. This is version 1 of the order page, a newer version will be available to users soon, on this page we find all the orders placed by customers, as well as other features such as a search bar. </p>
 
-!![image](https://user-images.githubusercontent.com/90828091/191359199-afa020c4-81e5-42e2-92c1-7cba2aac3ba4.png)
+![image](https://user-images.githubusercontent.com/90828091/191359199-afa020c4-81e5-42e2-92c1-7cba2aac3ba4.png)
+
+<p>Then the creation of an order analysis page, thanks to a framwork <a href="https://www.chartjs.org/">Chart.js</a></p>
+![image](https://user-images.githubusercontent.com/90828091/191359836-086bed63-506a-4d34-9a58-04ca55dd403a.png)
 
 
 <p>On this page we will find the information of the user account and we can connect to the centralization, in our case it is already connected </p>
