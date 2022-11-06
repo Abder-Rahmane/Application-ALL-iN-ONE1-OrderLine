@@ -17,22 +17,25 @@ The security of the site was ensured by django, more precisely in python, any in
 
 <br>
 
-<h1>PAGE ORDER</h1>
+<h1>ORDER PAGE</h1>
 
 <p>The design was also created beforehand with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, then developed. This is version 1 of the order page, a newer version will be available to users soon, on this page we find all the orders placed by customers, as well as other features such as a search bar. </p>
 
-![image](https://user-images.githubusercontent.com/90828091/191359199-afa020c4-81e5-42e2-92c1-7cba2aac3ba4.png)
+![image](https://user-images.githubusercontent.com/90828091/200194995-91edede5-f913-4b19-b720-6e73b445a451.png)
+![image](https://user-images.githubusercontent.com/90828091/200195011-b3f6f86b-9b67-48cb-9547-2a19d8e71f83.png)
 
+<h1>ANALYTIC PAGE</h1>
 <p>Then the creation of an order analysis page, thanks to a framwork <a href="https://www.chartjs.org/">Chart.js</a></p>
 
-![image](https://user-images.githubusercontent.com/90828091/191360016-4fb0e3c5-7229-4280-a520-d9a6339ab85a.png)
+![image](https://user-images.githubusercontent.com/90828091/200195052-2f1535cb-5363-4b1b-9873-86ef501690d2.png)
 
-<a>On this page we will find the information of the user account and we can connect to the centralization, in our case it is already connected </a>
+<h1>SETTINGS PAGE</h1>
+<p>On this page we will find the information of the user account and we can connect to the centralization, in our case it is already connected </p>
 
-![image](https://user-images.githubusercontent.com/90828091/191360356-85c5120d-a6e9-4029-a5f8-95f163a4d3be.png)
+![image](https://user-images.githubusercontent.com/90828091/200195087-9a554825-0abc-4fcc-bec6-a3ed79578641.png)
 
-
-
+<h1>SUPPORT PAGE</h1>
+![image](https://user-images.githubusercontent.com/90828091/200195234-b944fab4-6710-4c6b-bb2e-2873a7ba1bd9.png)
 
 
 <h1>CONTACT</h1>
