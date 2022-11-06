@@ -5,7 +5,7 @@
 <h1> ALL IN ONE1 ORDERLINE</h1>
 <p>All in one1 OrderLine is a web application developed in django, it is an application that consists in retrieving orders from delivery platforms.
 
-<h3>Technology used :</h3><p> django and Vue.JS (Html, Css, javascript, Pyhton, Ajax, htmx)</p>
+<h3>Technology used :</h3><p> Django and Vue.JS (Html, Css, javascript, Pyhton, Ajax, htmx)</p>
 <h3>Package :</h3> <p> channels, channels-redis, django-htmx, djangochannelsrestframework, djangorestframework, redis</p>
 <h3>Tools: </h3> <p> Ngrok, Postman, Redis-server, VsCode</p>
 <h3>General functionality :</h3> <p> Request, Database management, Websocket, OAuth, Webhook, API...</p>
