@@ -25,16 +25,18 @@ The security of the site was ensured by django, more precisely in python, any in
 
 <p>The design was also created beforehand with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, then developed. This is version 1 of the order page, a newer version will be available to users soon, on this page we find all the orders placed by customers, as well as other features such as a search bar. </p>
 
-![image](https://user-images.githubusercontent.com/90828091/201143606-7357ca6b-4020-4ddf-a1dd-2d5ebde9530b.png)
+![image](https://user-images.githubusercontent.com/90828091/214683149-79fae03b-08ed-497e-a069-dcecd1839021.png)
+![image](https://user-images.githubusercontent.com/90828091/214683528-dfcd38e5-6cb1-4226-b40b-f77a80cc3ba2.png)
+
 
 <h1>ANALYTIC PAGE</h1>
 <p>Then the creation of an order analysis page, thanks to a framwork <a href="https://www.chartjs.org/">Chart.js</a></p>
 
-![image](https://user-images.githubusercontent.com/90828091/201143706-692da38f-b678-4fc6-ba39-9d9a7a8de771.png)
+![image](https://user-images.githubusercontent.com/90828091/214683328-5f0867a8-bc0c-4c0d-bb00-b418405accec.png)
 
 <h1>SUPPORT PAGE</h1>
 
-![image](https://user-images.githubusercontent.com/90828091/201143772-5b8f4356-05e0-450f-b103-d60945d02f68.png)
+![image](https://user-images.githubusercontent.com/90828091/214683376-f79eb1d1-58db-4cbc-bcc6-dac662ead557.png)
 
 
 
