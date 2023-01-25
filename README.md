@@ -17,7 +17,7 @@ The security of the site was ensured by django, more precisely in python, any in
 <h1>PAGE LOGIN</h1>
 <p>The design was previously created with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, then developed. </p>
 
-![image](https://user-images.githubusercontent.com/90828091/201143910-ccc51716-0a2e-4c21-9a93-60aa2a95a7d4.png)
+![image](https://user-images.githubusercontent.com/90828091/214683032-53990162-f7a0-4312-a277-04bad3f67dfb.png)
 
 <br>
 
