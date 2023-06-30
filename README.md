@@ -40,7 +40,7 @@
 
 <p>The order page, designed with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, is the first version, and an updated version will be available soon. This page displays all customer orders and includes additional features such as a search bar.</p>
 
-<img src="https://user-images.githubusercontent.com/90828091/214683149-79fae03b-08ed-497e-a069-dcecd1839021.png" alt="Order Page">
+<img src="https://user-images.githubusercontent.com/90828091/250050647-078b5c05-6a6f-491b-a510-588d8c5bb28a.png" alt="Order Page">
 <img src="https://user-images.githubusercontent.com/90828091/214683528-dfcd38e5-6cb1-4226-b40b-f77a80cc3ba2.png" alt="Order Page Expanded">
 
 <h2>Analytics Page</h2>
