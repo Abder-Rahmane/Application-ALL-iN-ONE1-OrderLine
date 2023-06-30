@@ -28,6 +28,9 @@
 </ul>
 
 <h2>Login Page</h2>
+![thumbnail_IMG_0028](https://github.com/Abder-Rahmane/Application-ALL-iN-ONE1-OrderLine/assets/90828091/d83fc59b-d063-4e9e-9baa-e1cc879da9f4)
+![thumbnail_IMG_0027](https://github.com/Abder-Rahmane/Application-ALL-iN-ONE1-OrderLine/assets/90828091/1147517c-3839-4afc-bb7d-96902184132a)
+![thumbnail_IMG_0026](https://github.com/Abder-Rahmane/Application-ALL-iN-ONE1-OrderLine/assets/90828091/90809852-58cc-4b8f-b86a-8ea978885c82)
 
 <p>The login page's design was created using <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a> before being developed. </p>
 
@@ -36,7 +39,7 @@
 <br>
 
 <h2>Order Page</h2>
-![addrese](https://github.com/Abder-Rahmane/Application-ALL-iN-ONE1-OrderLine/assets/90828091/078b5c05-6a6f-491b-a510-588d8c5bb28a)
+
 
 <p>The order page, designed with <a href="https://www.adobe.com/fr/products/xd.html">Adobe XD</a>, is the first version, and an updated version will be available soon. This page displays all customer orders and includes additional features such as a search bar.</p>
 
