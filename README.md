@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 </head>
 <body>
 
@@ -17,6 +16,13 @@
 <h2>Overview</h2>
 
 <p>All in One1 OrderLine is a web application developed using Django and Vue.js. The application retrieves orders from delivery platforms and centralizes them through a server. It features robust security measures, ensuring the prevention of injections and other types of infiltration.</p>
+
+<!-- New Section for Repository Links -->
+<h2>Important Repositories</h2>
+<ul>
+    <li><a href="https://github.com/Abder-Rahmane/printer-thermal-with-django">Ticket Printing Module</a> - This repository contains the module for printing order tickets.</li>
+    <li><a href="https://github.com/Abder-Rahmane/new_implantation_apporderline_notification_IpadOS-16.4">iOS PWA Notifications</a> - This repository enables push notifications on iOS for the PWA.</li>
+</ul>
 
 <h2>Technologies and Tools</h2>
 
@@ -47,3 +53,6 @@
 <p>An order analysis page was created using the <a href="https://www.chartjs.org/">Chart.js</a> framework to provide insights and analytics on orders.</p>
 
 <img src="https://user-images.githubusercontent.com/90828091/250050980-90809852-58cc-4b8f-b86a-8ea978885c82.png" alt="Analytics Page">
+
+</body>
+</html>
